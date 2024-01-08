@@ -1,0 +1,40 @@
+.header-1 {
+    background-color: midnightblue;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    }
+
+
+.p{
+    color: white;
+}
+.p{
+    font-size: 25px;
+}
+.hr1{
+    color: midnightblue; 
+    
+}
+h1{
+    font-size: 40px;
+}
+.bN1 {
+  height: 50px;
+  font-size: 18px;
+  background-color: green;
+  color: white;
+  border-color: green;
+  
+}
+.bN1m{
+    height: 50px;
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  border-color: green;
+}
+.siv {
+  background-color: yellowgreen
+}
+
